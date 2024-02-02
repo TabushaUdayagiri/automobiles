@@ -1,0 +1,45 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.themeDarkBG {
+    background-color: #D4D4D4;
+}
+
+.hero-banner {
+    min-height: 70vh;
+}
+
+.hero-banner h1 {
+    font-weight: 600;
+    font-size: 64px;
+    color: #000000;
+}
+
+.hero-banner .h5 {
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.call-outs {
+    background-color: #F5F5F5;
+}
+
+.cta {
+    background-color: #A5A5A5;
+}
+
+.btn-primary {
+    background-color: #868686;
+    border-color: #868686;
+}
+
+.btn-primary:hover {
+    background-color: #9c9c9c;
+    border-color: #868686;
+}
+
+.ctc {
+    background: url(./images/bg-1.png);
+    height: 350px;
+}
